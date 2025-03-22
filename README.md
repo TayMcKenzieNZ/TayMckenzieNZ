@@ -50,3 +50,5 @@ Their contributions remain a significant part of FiveM’s modding history, desp
 TayMckenzieNZ is not active across social media and only uses discord for close friends. Due tovhis departure, he had no interest in offering support for his previous work or updating them _(either paid or free)_.
 
 If you wish to buy TayMckenzieNZ a coffee as a thanks and a departing gift, you can reach out to his [PayPal](https://paypal.me/TayMcKenzieV?country.x=NZ&locale.x=en_US).
+
+[😓](https://ko-fi.com/taymckenzienz)
