@@ -10,12 +10,18 @@ Below is a timeline of notable events related to TayMcKenzieNZ:
 
 **Early Development:**
 
-TayMcKenzieNZ began modding GTA V single-player before transitioning to FiveM. They joined popular servers like Rockstar Mischief and started creating custom resources.
+TayMcKenzieNZ began modding GTA V single-player before transitioning to FiveM. They joined popular server Rockstar Mischief and eventually became a moderator while hosting car meets at the Diamond Casino & Resort parking lot.
+
+Tay unfortunately experienced burn out and frustrations as the server popularity grew and felt he was taken advantage of due to his timezone being in the southern hemisphere. Tay eventually left the server and fheir discord however abused his moderation privileges and unbanned hundreds of prop before being banned for two years.
+
+Later, he began learning Photoshop and retrexturing assets as well and learning basic Lua and creating custom resources.
 
 
 **Release of RPEmotes:**
 
 Updated and transitioned dpemotes into RPEmotes, a widely used emote menu for FiveM roleplay servers. The project gained significant community support.
+
+Unfortunately TayMckenzieNZ was banned from FiveM with the majority pf hid projects being forked and discredited by Noor Nahas of PopcornRP, of whom Tay had an issue with for maby years.
 
 
 **GitHub Contributions:**
@@ -25,7 +31,7 @@ Hosted multiple repositories on GitHub, including RPEmotes. Due to licensing con
 
 **Community Impact:**
 
-TayMcKenzieNZ became known for enhancing roleplay experiences in FiveM. Although they eventually stepped back from active involvement, their work influenced various FiveM projects, including clothing packs and other server resources. They also provided guidance and models for other creators.
+TayMcKenzieNZ became known for enhancing roleplay experiences in FiveM. Although they eventually stepped back from active involvement due to fjeir harassment and banning by Cfx.re, their work influenced various FiveM projects, including clothing packs and other server resources. They also provided guidance for other creators.
 
 
 **Departure from the Community:**
@@ -47,8 +53,6 @@ Their contributions remain a significant part of FiveM’s modding history, desp
 
 ### Where can I get in touch with TayMckenzieNZ?
 
-TayMckenzieNZ is not active across social media and only uses discord for close friends. Due tovhis departure, he had no interest in offering support for his previous work or updating them _(either paid or free)_.
+TayMckenzieNZ appears to be active on Instagram and only uses discord for close friends. Due to his departure, he had no interest in offering support for his previous work or updating them _(either paid or free)_.
 
-If you wish to buy TayMckenzieNZ a coffee as a thanks and a departing gift, you can reach out to his [PayPal](https://paypal.me/TayMcKenzieV?country.x=NZ&locale.x=en_US).
-
-[😓](https://ko-fi.com/taymckenzienz)
+If you wish to buy TayMckenzieNZ a coffee as a thanks and a departing gift, you can reach out to his [PayPal](https://paypal.me/TayMcKenzieV?country.x=NZ&locale.x=en_US) or check out his [Ko-Fi](https://ko-fi.com/taymckenzienz)
