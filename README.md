@@ -49,7 +49,7 @@ As of March 13, 2025 TayMcKenzieNZ has officially stepped down from all active i
 - Discord participation
 - Social media presence
 
-Their contributions remain a significant part of FiveM’s modding history, despite their departure.
+~~Their contributions remain a significant part of FiveM’s modding history, despite their departure.~~
 
 ### Where can I get in touch with TayMckenzieNZ?
 
