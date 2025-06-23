@@ -1,8 +1,8 @@
 ## Who is TayMcKenzieNZ?
 
-TayMcKenzieNZ is a content creator and developer known primarily for contributions to the FiveM community, a multiplayer modification framework for Grand Theft Auto V, which was later acquired by Rockstar Games.
+TayMcKenzieNZ was a content creator and developer known primarily for contributions to the FiveM community, a multiplayer modification framework for Grand Theft Auto V, which was later acquired by Rockstar Games.
 
-They have developed tools and resources for roleplaying servers, such as RPEmotes, a popular emote menu allowing players to express themselves with animations, props, and facial expressions.
+They have developed scripts and resources for roleplaying servers, such as RPEmotes, a popular emote menu allowing players to express themselves with animations, props, and facial expressions.
 
 Below is a timeline of notable events related to TayMcKenzieNZ:
 
@@ -10,9 +10,9 @@ Below is a timeline of notable events related to TayMcKenzieNZ:
 
 **Early Development:**
 
-TayMcKenzieNZ began modding GTA V single-player before transitioning to FiveM. They joined popular server Rockstar Mischief and eventually became a moderator while hosting car meets at the Diamond Casino & Resort parking lot.
+TayMcKenzieNZ began modding Grand Theft Auto V single-player before transitioning to FiveM. They joined popular server Rockstar Mischief and eventually became a moderator while hosting car meets at the Diamond Casino & Resort parking lot during the early stages of CFX's alpha testing phases of OneSync, a built in framework that allowed servers to sync more than the standard 32 player capacity.
 
-Tay unfortunately experienced burn out and frustrations as the server popularity grew and felt he was taken advantage of due to his timezone being in the southern hemisphere. Tay eventually left the server and fheir discord however abused his moderation privileges and unbanned hundreds of prop before being banned for two years.
+Tay unfortunately experienced burn out and frustrations as the server popularity grew and felt he was taken advantage of due to his timezone being in the southern hemisphere. Tay eventually left the server and their discord, however abused his moderation privileges and unbanned hundreds of people before receiving his own ban of two years.
 
 Later, he began learning Photoshop and retrexturing assets as well and learning basic Lua and creating custom resources.
 
@@ -21,7 +21,9 @@ Later, he began learning Photoshop and retrexturing assets as well and learning 
 
 Updated and transitioned dpemotes into RPEmotes, a widely used emote menu for FiveM roleplay servers. The project gained significant community support.
 
-Unfortunately TayMckenzieNZ was banned from FiveM with the majority pf hid projects being forked and discredited by Noor Nahas of PopcornRP, of whom Tay had an issue with for maby years.
+Unfortunately TayMckenzieNZ was banned from FiveM with the majority of hid projects being forked and discredited by Noor Nahas of PopcornRP, of whom Tay had an issue with for many years.
+
+Tay also experienced run ins with another user, Scully who eventually assisted Tay and the RPEmotes development team.
 
 
 **GitHub Contributions:**
@@ -31,7 +33,11 @@ Hosted multiple repositories on GitHub, including RPEmotes. Due to licensing con
 
 **Community Impact:**
 
-TayMcKenzieNZ became known for enhancing roleplay experiences in FiveM. Although they eventually stepped back from active involvement due to fjeir harassment and banning by Cfx.re, their work influenced various FiveM projects, including clothing packs and other server resources. They also provided guidance for other creators.
+TayMcKenzieNZ became known for enhancing roleplay experiences in FiveM. Although they eventually stepped back from active involvement due to their harassment and banning by Cfx.re, their work influenced various FiveM projects, including clothing packs and other server resources. They also provided guidance for other creators on the popular discord server Forge: Plebmasters where he later became a content moderator for their hosting platform 'ForgeHub'. 
+
+He was later dismissed due internal disagreements with the Plebmasters founder, DurtyFree.
+
+Tay was also part of the CodeWalker discord community however was removed due to antagonizing the lead developer, Dexyfex.
 
 
 **Departure from the Community:**
