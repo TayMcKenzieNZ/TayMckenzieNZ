@@ -44,7 +44,7 @@ Tay was also part of the CodeWalker discord community however was removed due to
 
 TayMcKenzieNZ was banned from the cfx.re community due to multiple alleged breaches of the code of conduct. They later moved to BuyMeACoffee, but after just one year, they were banned in March 2025 due to multiple reports by notorious Cfx.re user Noor Nahas.
 
-These reports resulted in BuyMeACoffee banning TayMcKenzieNZ from their platform and refusing to pay them what they had rightfully earned.
+These reports resulted in BuyMeACoffee banning TayMcKenzieNZ from their platform and refusing to pay him what he had earnt.
 
 ### Where is TayMcKenzieNZ now?
 
@@ -55,10 +55,15 @@ As of March 13, 2025 TayMcKenzieNZ has officially stepped down from all active i
 - Discord participation
 - Social media presence
 
-~~Their contributions remain a significant part of FiveM’s modding history, despite their departure.~~
+- Their contributions remain a significant part of FiveM's modding history despite their departure.
+
 
 ### Where can I get in touch with TayMckenzieNZ?
 
-TayMckenzieNZ appears to be active on Instagram and only uses discord for close friends. Due to his departure, he had no interest in offering support for his previous work or updating them _(either paid or free)_.
+TayMckenzieNZ appears to be active on Instagram and discord however only interacts with close friends. Due to his departure, he has no interest in offering support for his previous work or updating them _(either paid or free)_.
 
-If you wish to buy TayMckenzieNZ a coffee as a thanks and a departing gift, you can reach out to his [PayPal](https://paypal.me/TayMcKenzieV?country.x=NZ&locale.x=en_US) or check out his [Ko-Fi](https://ko-fi.com/taymckenzienz)
+If you wish to buy TayMckenzieNZ a coffee as a thanks and a departing gift, you can reach out to his [PayPal](https://paypal.me/TayMcKenzieV?country.x=NZ&locale.x=en_US) or check out his [Ko-Fi](https://ko-fi.com/taymckenzienz) where some of his projects now reside.
+
+## September 2025
+
+As of September 1st 2025, Tay barely touches his PC. FiveM has still not added supported for their enhanced version of GTA 5, despite it being released March 4th 2025 and cfxre announcing their plan to support it on February 20th 2025.
