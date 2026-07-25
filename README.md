@@ -71,4 +71,10 @@ If you wish to buy TayMckenzieNZ a coffee as a thanks and a departing gift, you 
 
 ## September 2025
 
-As of September 1st 2025, Tay barely touches his PC. FiveM has still not added supported for their enhanced version of GTA 5, despite it being released March 4th 2025 and cfxre announcing their plan to support it on February 20th 2025.
+As of September 1st 2025, Tay barely touches his PC. FiveM had not added supported for their enhanced version of GTA 5, despite it being released March 4th 2025 and cfxre announcing their plan to support it on February 20th 2025.
+
+## July 2026
+
+As of July 25 2026, Cfx.re has been working on bringing support for the enhanced edition of Grand Theft Auto V to the FiveM platform. Tay has no intentions of porting his scripts over to this edition however allows his customers on [ko-fi](https://ko-fi.com/taymckenzienz) to do so themselves.
+
+Tay's sole focus is PlayStation 5 and patiently waiting for Grand Theft Auto VI: Ultimate Edition.
